@@ -1,0 +1,12 @@
+# Ignore raw data file
+Proyecto/Final/Datos/raw.csv
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Visualizations cache (if regenerated)
+Proyecto/Final/Visualizaciones/__pycache__/
